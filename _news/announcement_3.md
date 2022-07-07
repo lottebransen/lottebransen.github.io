@@ -1,7 +1,10 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-06-24
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+We have released our predictions for the 2022 Women's Euros!
+Read our 
+<a target="_blank" href="https://dtai.cs.kuleuven.be/sports/blog/women's-euro-2022-predictions:-sweden-and-france-favorites-for-title/"> blogpost </a> 
+and check out our <a target="_blank" href="https://dtai.cs.kuleuven.be/sports/euro2022/"> interactive visualization tool</a>! 

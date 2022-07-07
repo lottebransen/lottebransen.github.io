@@ -1,9 +1,9 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-first_name: FirstName
-last_name: LastName
-email: yourname@cs.kuleuven.be
+first_name: Lotte
+last_name: Bransen
+email: lottebransen@cs.kuleuven.be
 description: > # this means to ignore newlines until "url:"
   KU Leuven PhD researcher at the DTAI research group.
 footer_text: > # Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -21,18 +21,16 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # KU Leuven integration
 # -----------------------------------------------------------------------------
-ku_leuven_personnel_number: "0XXXXXX"
+ku_leuven_personnel_number: "0144061"
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # your GitHub user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
+github_username: lottebransen # your GitHub user name
+twitter_username: LotteBransen # your Twitter handle
+linkedin_username: lotte-bransen # your LinkedIn user name
+scholar_userid: zrDPWaIAAAAJ # your Google Scholar ID
+orcid_id: 0000-0002-0612-7999 # your ORCID ID
 
 contact_note: >
   You can reach me on firstname.lastname@kuleuven.be

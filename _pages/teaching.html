@@ -29,11 +29,11 @@ title: teaching
 
     <h3> Thesis Advisor </h3>
 
-    <ul>
     {% for item in site.data.teaching.thesis %}
-        <li> <em>{{item.student}}</em>: {{item.topic}} </li>
+      <div>
+        <em>{{ item.period }}: </em>{{item.student}}, "{{item.topic}}"
+      </div>
     {% endfor %}
-    </ul>
 {% endif %}
 
 
